@@ -8,12 +8,6 @@
 - 💬 Ask me about **Sass**
 - 📫 How to reach me **lucaserico2021@gmail.com**
 
-##
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gnhpt4vhhsdiptzt2andsx5a2y&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=9745f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-##
-
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-%C3%A9rico-quaresma?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bngdbe%2BH3SdycHky6QXf3QA%3D%3D) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/weiserjager)
 
@@ -30,6 +24,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=LucasErico&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LucasErico&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasErico&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gnhpt4vhhsdiptzt2andsx5a2y&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gnhpt4vhhsdiptzt2andsx5a2y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
 
 
 ---
