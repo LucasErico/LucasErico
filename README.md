@@ -10,6 +10,10 @@
 
 ##
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gnhpt4vhhsdiptzt2andsx5a2y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9745f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+##
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-%C3%A9rico-quaresma?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bngdbe%2BH3SdycHky6QXf3QA%3D%3D) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/weiserjager)
 
