@@ -5,7 +5,13 @@
 - 📫 How to reach me **lucaserico2021@gmail.com**
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-%C3%A9rico-quaresma?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bngdbe%2BH3SdycHky6QXf3QA%3D%3D) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/weiserjager) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-%C3%A9rico-quaresma?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bngdbe%2BH3SdycHky6QXf3QA%3D%3D) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/weiserjager)
+
+###
+
+<img align="right" height="200" src="https://media.tenor.com/lQ7ow7M095wAAAAi/toothless-dancing.gif"  />
+
+###
 
 # 💻Tech Stack
 
@@ -17,3 +23,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LucasErico&icon=0&color=0)](https://visitcount.itsvg.in)
+
+lucaserico/output/snake.svg" alt="Snake animation" />
+
