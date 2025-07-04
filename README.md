@@ -1,11 +1,9 @@
 ##
 
-<img align="right" height="200" src="https://media.tenor.com/lQ7ow7M095wAAAAi/toothless-dancing.gif"  />
-
 # 💫About Me :
 
-- 🌱 I’m currently learning **Nextjs, Vue, Sass**
-- 💬 Ask me about **Sass**
+- 🌱 I’m currently learning **C#, ASP.NET**
+- 💬 Ask me about **C#**
 - 📫 How to reach me **lucaserico2021@gmail.com**
 
 ## 🌐Socials
