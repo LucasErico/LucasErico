@@ -1,32 +1,69 @@
-##
+### Olá, eu sou o Lucas Érico 👋 | Hi, I'm Lucas Érico
 
-# 💫About Me :
+Tecnólogo em **Análise e Desenvolvimento de Sistemas** (FAETERJ-RIO) e mestrando em **Sistemas de Computação** no **Instituto Militar de Engenharia (IME)**.
 
-- 🌱 I’m currently learning **C#, ASP.NET**
-- 💬 Ask me about **C#**
-- 📫 How to reach me **lucaserico2021@gmail.com**
+Atuo na interseção entre **Desenvolvimento Full-Stack** e **Operação de Infraestrutura e Suporte de TI**, com experiência prática na evolução e sustentação de sistemas corporativos no **Ministério Público do Estado do Rio de Janeiro (MPRJ)** e na administração de redes e ambientes Linux/Windows na **FAETEC**.
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-%C3%A9rico-quaresma?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bngdbe%2BH3SdycHky6QXf3QA%3D%3D) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/weiserjager)
+- 🔭 **Foco atual:** Desenvolvimento back-end e full-stack com Java (Spring Boot), Node.js, TypeScript e React, além de pesquisas em Sistemas de Computação no IME.
+- 🛠️ **Experiência prática:** Manutenção de sistemas de integração (XML/APIs), painéis operacionais de suporte, redes internas e automação em ambiente Linux.
+- 📫 **Contato:** [lucaserico2021@gmail.com](mailto:lucaserico2021@gmail.com)
 
-##
+<details>
+<summary>🇺🇸 <b>Read in English (Click to expand)</b></summary>
+<br>
 
-# 💻Tech Stack
+Technologist in **Systems Analysis and Development** (FAETERJ-RIO) and M.Sc. candidate in **Computer Systems** at the **Military Institute of Engineering (IME)**.
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+I work at the intersection of **Full-Stack Software Development** and **IT Infrastructure & Technical Support**, with hands-on experience maintaining and evolving enterprise systems at the **Public Prosecutor's Office of Rio de Janeiro (MPRJ)** and administering networks and Linux/Windows environments at **FAETEC**.
 
-##
+- 🔭 **Current focus:** Back-end and full-stack development with Java (Spring Boot), Node.js, TypeScript, and React, alongside graduate studies in Computer Systems at IME.
+- 🛠️ **Hands-on experience:** Enterprise integration systems (XML/APIs), operational support dashboards, internal networks, and Linux automation.
+- 📫 **Contact:** [lucaserico2021@gmail.com](mailto:lucaserico2021@gmail.com)
 
-# 📊GitHub Stats :
-
-![](https://github-readme-stats.vercel.app/api?username=LucasErico&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LucasErico&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasErico&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gnhpt4vhhsdiptzt2andsx5a2y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
+</details>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LucasErico&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🌐 Conecte-se comigo | Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-q-nunes)
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-%23003366.svg?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/5865801824250541)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaserico2021@gmail.com)
+
+---
+
+### 💻 Stack Técnica | Tech Stack
+
+**Linguagens & Frameworks / Languages & Frameworks**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+**Bancos de Dados, Sistemas & Ferramentas / Databases, OS & Tools**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📊 Estatísticas no GitHub | GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasErico&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasErico&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasErico&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
